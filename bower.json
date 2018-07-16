@@ -66,7 +66,7 @@
     "webcomponentsjs": "webcomponents/webcomponentsjs#^v1.1.0"
   },
   "devDependencies": {
-    "web-component-tester": "^6.0.0",
+    "web-component-tester": "Polymer/web-component-tester#fix-memory-leak",
     "test-fixture": "PolymerElements/test-fixture#3.0.0-rc.1",
     "iron-component-page": "PolymerElements/iron-component-page#^3.0.1",
     "perf-tester": "polymerlabs/perf-tester"
